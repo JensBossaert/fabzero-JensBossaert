@@ -3,9 +3,6 @@ Hallo! Mijn naam is __Jens Bossaert__. Ik heb helaas pas van de workshop FabZero
 
 Ik ben doctoraatstudent _wiskunde_ en heb dan ook een grote voorliefde voor wiskundig geïnspireerde projecten. 
 
-![notapieceofcake]({{ site.baseurl }}/assets/cake.png "Cake")
-<!-- ![notapieceofcake](/assets/cake.png "Unfortunately, not a piece of cake") -->
-
-<img src="/assets/cake.png" height="128" width="128" >
+![notapieceofcake]({{ site.baseurl }}/assets/cake.png "Cake" =256x256)
 
 Met dank aan [Ingegno](https://ingegno.be/)!
