@@ -6,7 +6,7 @@
 
 ![notapieceofcake]({{ site.baseurl }}/assets/images/FlatfabJackalope.png "FlatFab")
 
-![notapieceofcake]({{ site.baseurl }}/assets/cake "FlatFab")
+![notapieceofcake]({{ site.baseurl }}/assets/cake.png "FlatFab")
 
 ## Stempel
 
