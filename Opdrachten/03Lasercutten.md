@@ -4,13 +4,11 @@
 
 <to come>
 
-![notapieceofcake]({{ site.baseurl }}/assets/images/FlatfabJackalope.png "FlatFab")
-
-![notapieceofcake]({{ site.baseurl }}/assets/cake.png "FlatFab")
+![flatfab](../assets/images/FlatfabJackalope.png "FlatFab")
 
 ## Stempel
 
 <to come>
   
-![notapieceofcake]({{ site.baseurl }}/assets/images/FlowerMezze1.jpg "Mezze Flower stempel 1")
-![notapieceofcake]({{ site.baseurl }}/assets/images/FlowerMezze2.jpg "Mezze Flower stempel 2")
+![mezze1](../assets/images/FlowerMezze1.jpg "Mezze Flower stempel 1")
+![mezze2](../assets/images/FlowerMezze2.jpg "Mezze Flower stempel 2")
