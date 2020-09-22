@@ -16,6 +16,27 @@ Best goed geslaagd! In de linkse stempel blijken de details in de bolletjes verl
 
 Dus, zorg ervoor dat je een volledig afgewerkt en meteen bruikbaar product aflevert &#9786;
 
+## 3D doosje
+
+Op de planning staat nog: met de [Box Maker](http://ingegno.be/Manuals/openjscad/boxmaker.html) tool de bronbestanden voor een doosje genereren en een originele toets geven. Bleek echter dat Adobe Illustrator de gegenereerde `dxf`-bestanden niet rechtstreeks kan openen. Via een online [conversietool](https://www.dxfconverter.org/) de `dxf` omzetten naar `svg` blijkt te werken. De volgende stappen zijn een _work in progress_.
+
+## Dissectiepuzzel
+
+Een hobbyprojectje was de onderstaande dissectie tot een fysiek model proberen maken.
+
+![hexagram](../assets/images/03HexagramToHexagon.jpg "Hexagram to hexagon")
+
+Na het uitrekenen van de nodige hoeken en lengtes bleek uit enkele speelgoedvoorbeelden dat de abstracte dissectie enkele fysieke beperkingen kende. Eén driehoekig onderdeel moet in een starre holte kunnen worden gedraaid; dat hebben we opgelost door enkele bogen uit de lagen mee weg te snijden. Daarnaast hangen momenteel enkele puzzelstukken slechts met een dun ligament aan de scharnieren en is er nog wat te veel 'wiebelruimte'. De ringen breder maken en/of het geheel lasersnijden uit kunststof kan helpen; ondertussen is mijn [_work in progress_](../assets/HexagramToHexagon.ai) alvast beschikbaar.
+
+![hexagram2](../assets/images/03HexagramToHexagon2.png "Hexagram to hexagon: bouwplan")
+
+Het resultaat oogt best mooi.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/PowHLOfiBgA" frameborder="0" allowfullscreen="true">
+  </iframe>
+</figure>
+
 ## FlatFab
 
 Conceptueel sprak FlatFab mij sterk aan, en ik prutste dan ook graag eens iets in elkaar. Ver ben ik nog niet geraakt; FlatFab heeft een redelijk stijle leercurve doordat een aantal belangrijke tools en opties nogal verstopt zitten, en het tekenen soms best onhandig is. Toen bleek dat men niet onder het _xy_-vlak kan tekenen en ik nergens een mogelijkheid vond om mijn figuur (een [jackalope](https://en.wikipedia.org/wiki/Jackalope)) in zijn geheel omhoog te verplaatsen, heb ik het zonder veel voldoening bij de kop gehouden.
