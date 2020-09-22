@@ -30,12 +30,12 @@ Na het uitrekenen van de nodige hoeken en lengtes bleek uit enkele speelgoedvoor
 
 ![hexagram2](../assets/images/03HexagramToHexagon2.png "Hexagram to hexagon: bouwplan")
 
-Het resultaat oogt best mooi.
-
-<figure class="video_container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/PowHLOfiBgA" frameborder="0" allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/PowHLOfiBgA" frameborder="0" allowfullscreen="true">
   </iframe>
 </figure>
+
+Het tussenresultaat oogt alvast best mooi.
 
 ## FlatFab
 
