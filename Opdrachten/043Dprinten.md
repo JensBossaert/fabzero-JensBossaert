@@ -1,4 +1,4 @@
-# Week 3: 3D ontwerpen en 3D-printen
+# Week 4: 3D ontwerpen en 3D-printen
 
 ## "Ambachtelijk" 3D-printen
 
