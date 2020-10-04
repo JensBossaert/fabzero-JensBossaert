@@ -1,7 +1,7 @@
 # FabZero-traject Jens Bossaert
 [![logo](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo.svg)][fabzero]
 
-Hallo! Mijn naam is __Jens Bossaert__. Op deze GitHubpagina houd ik de lessenreeks FabZero bij. Dat is een overzicht van de geziene "theorie" (lees: korte overzichten van de les met handige links en informatie), de resultaten van de opdrachten voor thuis, en de
+Hallo! Mijn naam is __Jens Bossaert__. Op deze GitHubpagina houd ik de lessenreeks FabZero bij. Dat is een overzicht van de geziene "theorie" (lees: korte overzichten van de les met handige links en informatie), de resultaten van de opdrachten voor thuis, en de vooruitgang van mijn uiteindelijke "afstudeerproject".
 
 _Met dank aan [Ingegno](https://ingegno.be/)!_
 

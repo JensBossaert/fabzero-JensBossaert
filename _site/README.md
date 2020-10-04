@@ -1,16 +1,13 @@
-# FabZero Traject "STUDENT"
+# FabZero-traject Jens Bossaert
 [![logo](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo.svg)][fabzero]
 
+Hallo! Mijn naam is __Jens Bossaert__. Op deze GitHubpagina houd ik de lessenreeks FabZero bij. Dat is een overzicht van de geziene "theorie" (lees: korte overzichten van de les met handige links en informatie), de resultaten van de opdrachten voor thuis, en de vooruitgang van mijn uiteindelijke "afstudeerproject".
 
-Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme).
+_Met dank aan [Ingegno](https://ingegno.be/)!_
 
-<img class="shadow-box" width="50%" alt="jekyll-rtd-theme" src="https://user-images.githubusercontent.com/68011645/89026666-ad3a8680-d35b-11ea-9f4b-d3fe26ae12ed.png">
+<!-- ![notapieceofcake]({{ site.baseurl }}/assets/cake.png "Cake") -->
 
-## Who am I?
-
-???
-
-## The license
-The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
+## License
+_Template based on [jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme). The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial._
 
 [fabzero]: https://ingegnomakerspace.github.io/inclusievekets/deelnemers
