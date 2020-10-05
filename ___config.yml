@@ -1,8 +1,8 @@
-title: FabZero Student Template
-lang: en
-description: FabZero template voor de studenten
+title: FabZerotraject Jens Bossaert
+lang: nl
+description: theorie, opdrachten en eindproject voor het FabZerotraject van Jens Bossaert
 
-theme: null
+theme: jekyll-theme-minimal
 
 nav_version: true
 edit: true
